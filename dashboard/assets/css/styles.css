@@ -5,3 +5,13 @@
 .btn-github{
     background-color: black;
 }
+
+.btn-github:hover{
+    background-color: rgba(0,0,0,.7);
+}
+
+.main-card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
