@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(223, 223, 223);
+}
+
+.join-discussion a{
+    font-size: 10px;
+}
+
+.join-discussion h3{
+    font-size: 14px;
+}
+
+.comment{
+    background-color: white;
+    box-shadow: 2px 2px 8px rgba(0,0,0,.1);
+    padding: 30px;
+}
+
+.comment .author-img{
+    display: inline-block;
+    border-radius: 50%;
+    width: 45px;
+}
+
+.comment h4{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.comment span{
+    margin-left: 20px;
+}
